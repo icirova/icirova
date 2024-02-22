@@ -3,8 +3,8 @@
 
 <div align="center">
   <ul style="padding: 0;">
-    <li>🌱 I’m currently learning <strong>React</strong> and <strong>TypeScript</strong></li>
-    <li>👨‍💻 All of my projects are available at <a href="https://personal-page.cirova.cz/projekty/" target="_blank" rel="noopener noreferrer">https://personal-page.cirova.cz/projekty/</a></li>
+   🌱 I’m currently learning <strong>React</strong> and <strong>TypeScript</strong>
+   👨‍💻 All of my projects are available at <a href="https://personal-page.cirova.cz/projekty/" target="_blank" rel="noopener noreferrer">https://personal-page.cirova.cz/projekty/</a>
   </ul>
 </div>
 
