@@ -1,11 +1,11 @@
-# Hi there, I'm Iveta 👋
+## Hi there, I'm Iveta 👋
 
 - 👨‍💻 I’m interested in **frontend** development. 
 - 🌱 I’m currently learning **React** and **TypeScript**
 - 🔭 I’m currently working on my own projects where I practice the acquired knowledge.
 - 💻 All of my projects are available at <a href="https://personal-page.cirova.cz/projekty/" target="_blank" rel="noopener noreferrer">https://personal-page.cirova.cz/projekty/</a>
 
-## Tech Stack
+### Tech Stack
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
@@ -20,6 +20,6 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a> 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a> 
 
-## Contact Me
+### Contact Me
 
 - LinkedIn: [linkedin.com/in/iveta-cirova](https://www.linkedin.com/in/iveta-cirova/)
