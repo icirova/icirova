@@ -1,12 +1,10 @@
 <h1 align="center">Hi everyone 👋, I'm Iveta.</h1>
 <h3 align="center">I am interested in frontend development.</h3>
 
-<div align="center">
-  <ul style="padding: 0;">
    🌱 I’m currently learning <strong>React</strong> and <strong>TypeScript</strong>
    👨‍💻 All of my projects are available at <a href="https://personal-page.cirova.cz/projekty/" target="_blank" rel="noopener noreferrer">https://personal-page.cirova.cz/projekty/</a>
-  </ul>
-</div>
+
+
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
