@@ -1,5 +1,5 @@
 <h1 align="center">Hi everyone 👋, I'm Iveta.</h1>
-<h3 align="center">I am interested in frontend development.</h3>
+<h3 align="left">I am interested in frontend development.</h3>
 
    🌱 I’m currently learning <strong>React</strong> and <strong>TypeScript</strong>
    
