@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **React** and **TypeScript**
 - 🔭 I’m currently working on my own projects where I practice the acquired knowledge.
 - 💻 All of my projects are available at <a href="https://personal-page.cirova.cz/projekty/" target="_blank" rel="noopener noreferrer">https://personal-page.cirova.cz/projekty/</a>
-
+<br/>
 ### Tech Stack
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
