@@ -1,9 +1,37 @@
-<h1 align="center">Hi everyone 👋, I'm Iveta.</h1>
-<h3 align="left">I am interested in frontend development.</h3>
+# Hi there, I'm Iveta 👋
 
-   🌱 I’m currently learning <strong>React</strong> and <strong>TypeScript</strong>
-   
-   👨‍💻 All of my projects are available at <a href="https://personal-page.cirova.cz/projekty/" target="_blank" rel="noopener noreferrer">https://personal-page.cirova.cz/projekty/</a>
+## About Me
+
+I am interested in frontend development. 
+
+
+- 🌱 I’m currently learning React and TypeScript
+- 🔭 I’m currently working on my own projects where I practice the acquired knowledge.
+- 👨‍💻 All of my projects are available at <a href="https://personal-page.cirova.cz/projekty/" target="_blank" rel="noopener noreferrer">https://personal-page.cirova.cz/projekty/</a>
+
+
+## Tech Stack
+
+Here are a few technologies I've been working with recently:
+
+- HTML & CSS
+- JavaScript (React, Vue.js)
+- 
+- MongoDB
+- Git & GitHub
+- <a href="https://www.11ty.dev/" target="_blank" rel="noreferrer"> <img src="https://gist.githubusercontent.com/vivek32ta/c7f7bf583c1fb1c58d89301ea40f37fd/raw/f4c85cce5790758286b8f155ef9a177710b995df/11ty.svg" alt="11ty" width="40" height="40"/> </a>
+
+
+
+## Contact Me
+
+- LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/iveta-cirova/)
+
+
+
+
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
