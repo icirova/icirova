@@ -1,6 +1,6 @@
 # Hi there, I'm Iveta 👋
 
-## About Me
+
 
 I am interested in frontend development. 
 
@@ -27,4 +27,4 @@ I am interested in frontend development.
 
 ## Contact Me
 
-- LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/iveta-cirova/)
+- LinkedIn: [linkedin.com/in/iveta-cirova](https://www.linkedin.com/in/iveta-cirova/)
