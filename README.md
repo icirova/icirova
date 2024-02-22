@@ -1,4 +1,4 @@
-## Hi there, I'm Iveta 👋
+<h2 style="text-align:center> Hi there, I'm Iveta 👋</h2>
 
 - 👨‍💻 I’m interested in **frontend** development. 
 - 🌱 I’m currently learning **React** and **TypeScript**
