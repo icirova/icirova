@@ -2,7 +2,7 @@
 <h3 align="center">I am interested in frontend development.</h3>
 
 <div align="center">
-  <ul style="list-style-type: none; padding: 0;">
+  <ul style="list-style-type: none; padding: 0;border: 1px solid green">
     <li style="text-align: center;">🌱 I’m currently learning <strong>React</strong> and <strong>TypeScript</strong></li>
     <li style="text-align: center;">👨‍💻 All of my projects are available at <a href="https://personal-page.cirova.cz/projekty/" target="_blank" rel="noopener noreferrer">https://personal-page.cirova.cz/projekty/</a></li>
   </ul>
